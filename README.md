@@ -5,11 +5,11 @@
 - [x] create index.html
 - [x] added basic boilerplate
 - case study to do list
-- [x] my first project
-- [x] make a title
-- [x] make a sub title
-- [x] getting a picture of a canadian flag and my country flag
-- [x] get a pictures of where i have been
-- [x] get a picture of my cutural food
-- [x] get my favortite music demos
-- [x] get a picture of my sports
+- [] my first project
+- [] make a title
+- [] make a sub title
+- [] getting a picture of a canadian flag and my country flag
+- [] get a pictures of where i have been
+- [] get a picture of my cutural food
+- [] get my favortite music demos
+- [] get a picture of my sports
